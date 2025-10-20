@@ -4,7 +4,7 @@ export default function Footer() {
   const links = [
     {
       name: 'Twitter',
-      url: 'https://twitter.com',
+      url: 'https://x.com/lenoalgorithm',
       icon: Twitter
     },
     {
